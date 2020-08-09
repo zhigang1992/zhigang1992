@@ -1,11 +1,12 @@
-### Hi there, I'm Kyle Fang - aka [zhigang1992][website] 👋
+### Hi there, I'm Kyle Fang 👋
 
 ## I'm a Husband, Father, Developer, and Teacher!
 - TBD
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="reily.app | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gatsby.svg" />][website]
+[<img align="left" alt="zhigang1992 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
 
