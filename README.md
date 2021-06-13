@@ -7,7 +7,5 @@
 
 <br />
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=zhigang1992&show_icons=true&hide_border=true" />
-
 [website]: https://reily.app
 [twitter]: https://twitter.com/zhigang1992
